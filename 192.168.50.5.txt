@@ -1,0 +1,5 @@
+connections strings
+
+"Server=Domz;Database=EmployeeeData;Integrated Security=True;"
+
+"Data Source=192.168.50.5;Initial Catalog=EmployeeeData;User Id=sa;Password=comsys@123;Encrypt=False"
